@@ -1,5 +1,13 @@
+title: Alp Ozkan - Product Executive
+email: alpozkanm@gmail.com
+description: Entrepreneur, Engineer, Product Executive.
+twitter_username: alpozkanm
+github_username:  alpozkanm
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-relative-links
+  - jekyll-remote-theme
+  - jekyll-readme-index
 relative_links:
   enabled: true
   collections: true
@@ -12,3 +20,4 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+  - INDEX.md
