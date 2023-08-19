@@ -1,9 +1,12 @@
 title: Alp Ozkan
 email: alpozkanm@gmail.com
-description: "As a seasoned Product Manager with over 10 years of experience, I have consistently delivered groundbreaking products in diverse industries such as E-commerce, FinTech, Delivery Service, Blockchain, and Mobile Apps.\nMy proven track record includes successfully launching more than 75 products on an international scale. Adept at building robust product organizations, I possess a keen understanding of every stage of product development, from early ideation to launch."
+description: "As a seasoned Product Manager with over 10 years of experience, I have consistently delivered groundbreaking products in diverse industries such as E-commerce, FinTech, Delivery Service, Blockchain, and Mobile Apps.\n\nMy proven track record includes successfully launching more than 75 products on an international scale. Adept at building robust product organizations, I possess a keen understanding of every stage of product development, from early ideation to launch."
 subtitle: Entrepreneur, Product Manager, Engineer
 url: "https://www.alpozkan.info/"
 twitter_username: alpozkanm
+twitter:
+  username: alpozkanm
+  card: summary
 github_username:  alpozkanm
 remote_theme: pages-themes/cayman@v0.2.0
 google_analytics: G-T72L2FK7E3
@@ -12,6 +15,8 @@ plugins:
   - jekyll-remote-theme
   - jekyll-readme-index
   - jekyll-analytics
+  - jekyll-seo-tag
+  - jekyll-sitemap
 relative_links:
   enabled: true
   collections: true
