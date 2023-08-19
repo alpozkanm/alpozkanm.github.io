@@ -5,7 +5,7 @@ url: "https://www.alpozkan.info/"
 twitter_username: alpozkanm
 github_username:  alpozkanm
 remote_theme: pages-themes/cayman@v0.2.0
-google_analytics: UA-48104861-2
+google_analytics: G-T72L2FK7E3
 plugins:
   - jekyll-relative-links
   - jekyll-remote-theme
