@@ -7,7 +7,7 @@ As a seasoned Product Executive with over 10 years of experience, I have consist
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alpozkan) 
 [![Medium](https://img.shields.io/badge/medium-000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alpozkanm) 
 [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Alpozkanm)
-
+-info-
 # 💎 Soft Skills:
 [![Product Management](https://img.shields.io/badge/Product%20Management-FF5733?style=for-the-badge&logo=product%20hunt&logoColor=white)](https://www.linkedin.com/in/alpozkan/)
 [![Agile](https://img.shields.io/badge/Agile-49A1EB?style=for-the-badge&logo=ag-grid&logoColor=white)](https://www.linkedin.com/in/alpozkan/)
